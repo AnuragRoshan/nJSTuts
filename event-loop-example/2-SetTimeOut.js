@@ -8,6 +8,6 @@ readFile('./content/first.txt', 'utf8', (err, result) => {
     return
   }
   console.log(result)
-  console.log('completed first task')
+  console.log('completed first tasks')
 })
 console.log('starting next task')

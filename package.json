@@ -4,8 +4,7 @@
   "description": "",
   "main": "10fsSync.js",
   "scripts": {
-    "start": "node 12HttpModule.js",
-    "dev": "nodemon 12HttpModule.js"
+    "start": "nodemon app.js"
   },
   "keywords": [],
   "author": "Anurag",
