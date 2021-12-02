@@ -11,7 +11,7 @@
   "author": "Anurag",
   "license": "ISC",
   "dependencies": {
-    "loadash": "^1.0.0"
+        "loadash": "^1.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
