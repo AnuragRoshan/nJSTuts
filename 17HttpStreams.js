@@ -10,7 +10,6 @@ http.createServer(function (req, res) {
     })
     fileStream.on('error', (err) => {
       res.end(err)
-    }) 
-
+    })
   })
   .listen(5000)
